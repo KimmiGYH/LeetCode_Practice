@@ -1,5 +1,9 @@
-// [1] 
+// [1] Two sums
 // https://leetcode-cn.com/problems/two-sum/description/
+#include <vector>
+#include <string>
+
+using namespace std;
 
 class Solution {
 public:

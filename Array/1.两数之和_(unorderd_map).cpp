@@ -1,9 +1,13 @@
-/*
+/* [1] Two sums
  * @lc app=leetcode.cn id=1 lang=cpp
  * https://leetcode.com/problems/two-sum/
- * [1] Two sums
+ * 
  */
+#include <vector>
+#include <string>
+#include <unordered_map>
 
+using namespace std;
 // @lc code=start
 class Solution {
 public:
