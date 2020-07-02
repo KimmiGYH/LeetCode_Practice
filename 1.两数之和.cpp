@@ -1,10 +1,5 @@
-/*
- * @lc app=leetcode.cn id=1 lang=cpp
- *
- * [1] ????
- */
+// [1] ????
 
-// @lc code=start
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
@@ -21,5 +16,4 @@ public:
         return ans;
     }
 };
-// @lc code=end
 
